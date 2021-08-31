@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Kyle Glenn Daniel SAFSN
  */
 
 public class Class2 {
